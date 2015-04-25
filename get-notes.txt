@@ -1,0 +1,49 @@
+Command Line:
+    • Cd /code/python --> this is an absolute path you could use to jump
+    • Mac land --> not case sensitive, but Linux systems are
+    • Naming convention
+        ○ Avoid spaces in the names you give files and directories
+    • With cd you could chain all sorts of commands together
+    • File system is sometimes referred to as a tree
+    • You could also use ls the same way you would use cd (could look at the contents inside folders that aren't your current one
+    • Tab completion is awesome :)
+    • Path: address for a filesystem location, either absolute or reltive
+    • Root: location at the top of the filesystem
+    • Flags: symbols provided at the command line to alter the behavior of commands
+    • History command --> allows you to see all of the different commands you have done
+    • History | less --> will give you an abridged version of the history
+    • | ---> output of one command will be input to the next command (this is also known as the piping command)
+    • Less is a command as well
+    • History > moving_around.txt (allows you to create a file that has the history of what you've done saved in a file)
+    • Redirection operator >
+    • -v flag allows you to see exactly what happens with commands
+    • The . And .. Files are all the hidden files that you wouldn't normally see
+
+Git:
+    • -l flag allows you to see the log in information that you entered for git
+    • Rm -r .git (removes git repository)
+    • Good practice to always do git status before committing any of your files
+    • After you add the file, it goes into "stage"
+    • Stuff goes from working directory --> staging area --> repository
+    • Once you modify something after committing you are able to see that it has been "modified"
+        ○ Won't say "untracked file" anymore
+    • Git commit -a adds all files to the repository (but generally not recommended because you want to know exactly what you are doing)
+    • Git log --> shows the history of everything that you have done
+    • Git is a version control system
+        ○ History of everything you do to your files
+        ○ Graph of "states" in which your files has existed
+    • Each commit is a sequence of "deltas" or changes made to the files
+    • Master & head point to the new commits (points to the current place in the timeline)
+    
+    
+
+
+
+
+
+
+To Do:
+    • Figure out how to add the branch stuff (so you could figure out what branch you are on)
+    
+
+    
