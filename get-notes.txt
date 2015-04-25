@@ -44,6 +44,5 @@ Git:
 
 To Do:
     • Figure out how to add the branch stuff (so you could figure out what branch you are on)
-    
 
     
